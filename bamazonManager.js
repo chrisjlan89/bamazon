@@ -167,10 +167,7 @@ function addInventory(){
       )}
 
 
-
-
-
-   function addItem(){
+ function addItem(){
         inquirer.prompt([
            {
                 name : "item",
